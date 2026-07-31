@@ -60,4 +60,5 @@ memakai [Chart.js](https://www.chartjs.org/) untuk itu.
 
 ---
 
-Dikembangkan oleh **[Enuma Technology](https://github.com/enuma-technology)**.
+Dikembangkan oleh **[Enuma Technology](https://enumatechnology.com)**
+([GitHub](https://github.com/enuma-technology)).
