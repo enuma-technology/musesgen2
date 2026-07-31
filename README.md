@@ -40,7 +40,7 @@ Untuk dipakai dari repo/project lain, ganti path lokal dengan URL jsdelivr
 setelah repo ini di-push ke GitHub:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/USERNAME/REPO@main/musesgen2/script.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/enuma-technology/musesgen2@main/script.js"></script>
 ```
 
 ## Kenapa ditulis manual, bukan pakai library dari npm/CDN?
@@ -57,3 +57,7 @@ setelah repo ini di-push ke GitHub:
 
 Grafik-nya sendiri **tidak** ditulis manual — web utama (`../script.js`)
 memakai [Chart.js](https://www.chartjs.org/) untuk itu.
+
+---
+
+Dikembangkan oleh **[Enuma Technology](https://github.com/enuma-technology)**.
